@@ -1,2 +1,2 @@
 # web_service_N_tiers
- this code use 3 server application and 4 database connected with React Js
+ this code uses 3 server applications and 4 databases connected with ReactJs
